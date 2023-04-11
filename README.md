@@ -1,27 +1,27 @@
-# dotfiles and development environment configurations
-# Browser
+# Dotfiles and Development Environment Configurations
+## Browser
 Chrome  
 Firefox Developer  
 
-# Finder
+## Finder
 Alfred  
 Large Avenir theme  
 Hotkey: Option + Space  
 
-# Notes
+## Notes
 Obsidian  
 Clone obsidian repo from github  
 
-# Window Snapping
+## Window Snapping
 Rectangle app  
 
-# IDE
+## IDE
 VSCode  
 Sync GitHub  
 Font: JetBrainsMono Nerd Font 14  
 GitHub Dark Dimmed Theme  
 
-# Terminal
+## Terminal
 ### Terminal
 Warp terminal  
 GitHub Dark Dimmed Theme  
