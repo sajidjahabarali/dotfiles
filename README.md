@@ -9,7 +9,7 @@ Large Avenir theme
 Hotkey: Option + Space  
 
 ## Notes
-Obsidian  
+Notion  
 Clone obsidian repo from github  
 
 ## Window Snapping
