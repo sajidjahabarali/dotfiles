@@ -1,5 +1,6 @@
 # Dotfiles and Development Environment Configurations
-## Browser
+## Browsers
+Arc
 Chrome  
 Firefox Developer  
 
