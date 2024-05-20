@@ -19,7 +19,7 @@ Rectangle app
 VSCode  
 Sync GitHub  
 Font: JetBrainsMono Nerd Font 14  
-GitHub Dark Dimmed Theme  
+Atom Theme 
 
 ## Terminal
 ### Terminal
