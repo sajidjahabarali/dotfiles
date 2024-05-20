@@ -10,8 +10,7 @@ Large Avenir theme
 Hotkey: Option + Space  
 
 ## Notes
-Notion  
-Clone obsidian repo from github  
+Notion
 
 ## Window Snapping
 Rectangle app  
