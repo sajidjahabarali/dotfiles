@@ -28,3 +28,6 @@ style = 'bold orange'
 
 [git_branch]
 symbol = '󰘬 '
+
+[python]
+symbol = ' '
