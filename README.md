@@ -1,32 +1,40 @@
 # Dotfiles and Development Environment Configurations
+
+## Linux Distros
+### Pi OS 64 bit
+
 ## Browsers
-Arc
-Chrome  
-Firefox Developer  
+### Arc
+### Chrome  
+### Firefox Developer  
 
 ## Finder
-Alfred  
-Large Avenir theme  
-Hotkey: Option + Space  
+### Alfred  
+- Large Avenir theme  
+- Hotkey: Option + Space  
 
 ## Notes
-Notion
+### Notion
 
 ## Window Snapping
-Rectangle app  
+### Rectangle app  
 
 ## IDE
-VSCode  
-Sync GitHub  
-Font: JetBrainsMono Nerd Font 14  
-Atom Theme 
+### VSCode  
+- Settings: Sync GitHub  
+- Font: JetBrainsMono Nerd Font 14  
+- Theme: Atom IDE
 
-## Terminal
-### Terminal
-Warp terminal  
-GitHub Dark Dimmed Theme  
+### NvChad
+- Text Editor: NeoVim
+- Theme: Catppuccin
 
-``` Settings
+## Terminal Emulator
+### Warp 
+- Theme: GitHub Dark Dimmed Theme  
+
+- Settings: 
+```
 ├── Appearance
 │   └── Text
 │       ├── Terminal Font: JetBrainsMono Nerd Font 14 1.2
@@ -41,15 +49,15 @@ GitHub Dark Dimmed Theme
         └── Keybinding F12
 ```
 
-### Font
-JetBrains Mono Regular Nerd Font Complete  
+### Alacritty
+- Theme: Catppuccin
 
-### Shell
-#### Type
+## Shell
+### Type
 Zsh  
-#### Framework
+### Framework
 Oh My Zsh  
-#### Prompt
+### Prompt
 Starship  
 
 ### Navigation History
