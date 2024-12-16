@@ -3,6 +3,9 @@
 ## Linux Distros
 ### Pi OS 64 bit
 
+## Linux Desktop Environment
+### KDE Plasma
+
 ## Browsers
 ### Arc
 ### Chrome  
