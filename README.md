@@ -51,6 +51,7 @@
         └── Global hotkey
         └── Keybinding F12
 ```
+### Tabby
 
 ### Alacritty
 - Theme: Catppuccin
